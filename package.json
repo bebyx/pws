@@ -10,16 +10,24 @@
     "type": "git",
     "url": "git+ssh://git@github.com/bebyx/pws.git"
   },
-  "keywords": ["personal", "portfolio", "static", "mailer"],
+  "keywords": [
+    "personal",
+    "portfolio",
+    "static",
+    "mailer"
+  ],
   "author": "bebyx",
   "liense": "ISC",
   "homepage": "https://github.com/bebyx/pws#readme",
   "dependencies": {
+    "bootstrap": "^4.4.1",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "ejs": "~2.6.1",
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
-    "morgan": "~1.9.1"
+    "jquery": "^3.4.1",
+    "morgan": "~1.9.1",
+    "popper.js": "^1.16.0"
   }
 }
