@@ -1,10 +1,19 @@
 {
   "name": "pws",
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "description": "Personal website",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bebyx/pws.git"
+  },
+  "keywords": ["personal", "portfolio", "static", "mailer"],
+  "author": "bebyx",
+  "liense": "ISC",
+  "homepage": "https://github.com/bebyx/pws#readme",
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
