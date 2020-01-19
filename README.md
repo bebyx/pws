@@ -1,4 +1,4 @@
-# Personal webiste (Node.js)
+# Personal website (Node.js)
 
 A proejct for a personal website with static pages and mailer.
 
